@@ -4,7 +4,6 @@
 <p><img align="right"  src="https://github-readme-stats.vercel.app/api?username=uhrzel&theme=radical" alt="uhrzel" /></p>
 
 <div>
-- 🌱 I’m currently learning **MERN STACK DEVELOPMENT**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-ajrz.vercel.app/](https://portfolio-ajrz.vercel.app/)
 
