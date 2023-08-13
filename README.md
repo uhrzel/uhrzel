@@ -1,25 +1,7 @@
-<div style="border: 1px solid #e1e4e8; padding: 10px; border-radius: 5px;">
-👋 Hey there! I'm Arzel John Zolina, a passionate developer with a knack for crafting captivating digital experiences. My coding journey revolves around HTML, CSS, and JavaScript, where I mold the virtual world with creativity and functionality. 🌐
-
-When I'm not immersed in code, you'll find me diving into the dynamic realm of Flutter, sculpting elegant and efficient mobile apps that come to life in your hands. 📱
-
-Driven by my unquenchable curiosity, I'm always on the hunt for the latest tech trends. From emerging frameworks to innovative paradigms, I'm all about staying ahead of the curve and embracing the future of technology. ⚡
-
-My coding philosophy is simple yet powerful: "Transform ideas into lines of code, and dreams into tangible digital realities." 🚀
-
-Join me on my mission to explore, innovate, and create. Together, we'll push the boundaries of technology and turn possibilities into actualities. Let's build a digital world that not only meets today's needs but anticipates tomorrow's challenges. 🌟
-
-Feel free to explore my repositories and join me in this exciting journey of tech exploration and creation! 🚀🔥
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=uhrzel&show_icons=true&locale=en&layout=compact&theme=dracula" alt="uhrzel" />
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1282416/screenshots/2859399/media/7876dd3dbc1111578d80369da11b047b.gif" />
-</div>
-
-<p align="left">A passionate frontend developer here in the Philippines</p>
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=uhrzel&label=Profile%20views&color=0e75b6&style=flat" alt="uhrzel" />
-</p>
+<p align="center"> <img src="image.png" alt="uhrzel" /> </p>
+<p align="left">A passionate frontend developer here in he philippines</p>
+<img align ="right" alt = "Coding" width = "400" src = "https://cdn.dribbble.com/users/1282416/screenshots/2859399/media/7876dd3dbc1111578d80369da11b047b.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=uhrzel&label=Profile%20views&color=0e75b6&style=flat" alt="uhrzel" /> </p>
 
 - 🌱 I’m currently learning **MERN STACK DEVELOPMENT**
 
