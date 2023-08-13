@@ -5,6 +5,7 @@
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=uhrzel&show_icons=true&locale=en&layout=compact&theme=radical" alt="uhrzel" /></p>
 <p><img align="right"  src="https://github-readme-stats.vercel.app/api?username=uhrzel&theme=radical" alt="uhrzel" /></p>
 
+<p align = "left">
 - 🌱 I’m currently learning **MERN STACK DEVELOPMENT**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-ajrz.vercel.app/](https://portfolio-ajrz.vercel.app/)
@@ -12,6 +13,7 @@
 - 📫 How to reach me **Arzeljrz17@gmail.com**
 
 - 📄 Know about my experiences [https://resume-arzeljrz.vercel.app/](https://resume-arzeljrz.vercel.app/)
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
