@@ -16,5 +16,5 @@
 <a href="https://fb.com/uhrzel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="uhrzel" height="30" width="40" /></a>
 </p>
 
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=uhrzel&show_icons=true&locale=en&layout=compact&theme=onedark" alt="uhrzel" /></p>
-<p><img align="right"  src="https://github-readme-stats.vercel.app/api?username=uhrzel&theme=onedark" alt="uhrzel" /></p>
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=uhrzel&show_icons=true&locale=en&layout=compact&theme=merko" alt="uhrzel" /></p>
+<p><img align="right"  src="https://github-readme-stats.vercel.app/api?username=uhrzel&theme=merko" alt="uhrzel" /></p>
