@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **MERN STACK DEVELOPMENT**
 
-- 👨‍💻 All of my projects are available at [my portfolio.](https://portfolio-ajrz.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://vercel.com/arzeljrz10/resume-arzeljrz](https://portfolio-ajrz.vercel.app/)
 
 - 📫 How to reach me **Arzeljrz17@gmail.com**
 
-- 📄 Know about my experiences [resume.](https://resume-arzeljrz.vercel.app/)
+- 📄 Know about my experiences [https://vercel.com/arzeljrz10/resume-arzeljrz](https://resume-arzeljrz.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
