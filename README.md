@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Arzel John Zolina</h1>
 <h3 align="center">A passionate frontend developer here in he philippiens</h3>
 
+<img align = "right" alt = "Coding" width = "400" src = "https://cdn.dribbble.com/users/1282416/screenshots/2859399/media/7876dd3dbc1111578d80369da11b047b.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uhrzel&label=Profile%20views&color=0e75b6&style=flat" alt="uhrzel" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uhrzel" alt="uhrzel" /></a> </p>
+<p align="left"> 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+</p>
 
 - 🌱 I’m currently learning **MERN STACK DEVELOPMENT**
 
