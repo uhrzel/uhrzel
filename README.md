@@ -3,15 +3,6 @@
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=uhrzel&show_icons=true&locale=en&layout=compact&theme=radical" alt="uhrzel" /></p>
 <p><img align="right"  src="https://github-readme-stats.vercel.app/api?username=uhrzel&theme=radical" alt="uhrzel" /></p>
 
-<div>
-
-- 👨‍💻 All of my projects are available at [https://portfolio-ajrz.vercel.app/](https://portfolio-ajrz.vercel.app/)
-
-- 📫 How to reach me **Arzeljrz17@gmail.com**
-
-- 📄 Know about my experiences [https://resume-arzeljrz.vercel.app/](https://resume-arzeljrz.vercel.app/)
-
-</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/arzel-john-zolina-6983bb274" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arzel-john-zolina-6983bb274" height="30" width="40" /></a>
