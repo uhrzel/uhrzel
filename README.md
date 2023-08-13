@@ -38,7 +38,7 @@
   </a>
 </p>
 
-<div class="container" style="display: flex; flex-direction: row; justify-content: space-between;">
+<div align="center">
   <div style="flex: 1; margin-right: 10px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=uhrzel&show_icons=true&locale=en&layout=compact&theme=radical" alt="uhrzel" />
   </div>
