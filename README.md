@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **Arzeljrz17@gmail.com**
 
-- 📄 Know about my experiences [:resume.](https://resume-arzeljrz.vercel.app/)
+- 📄 Know about my experiences [resume.](https://resume-arzeljrz.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
