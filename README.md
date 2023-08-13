@@ -1,5 +1,5 @@
 <p align="center"> <img src="image.png" alt="uhrzel" /> </p>
-<h1 align="center"> Aspiring Web developer soon...</h1>
+<h2 align="center">Hi 👋,Welcome to my profile</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uhrzel&label=Profile%20views&color=0e75b6&style=flat" alt="uhrzel" /> </p>
 - 🌱 I’m currently learning **MERN STACK DEVELOPMENT**
 
