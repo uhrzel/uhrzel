@@ -1,4 +1,4 @@
-<p align="center"> <img src="t" alt="uhrzel" /> </p>
+<p align="center"> <img src="image.png" alt="uhrzel" /> </p>
 <h1 align="center">Hi 👋, I'm Arzel John Zolina</h1>
 <h3 align="center">A passionate frontend developer here in he philippines</h3>
 <img align ="right" alt = "Coding" width = "400" src = "https://cdn.dribbble.com/users/1282416/screenshots/2859399/media/7876dd3dbc1111578d80369da11b047b.gif">
