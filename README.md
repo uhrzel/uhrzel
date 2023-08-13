@@ -5,7 +5,7 @@
   <img alt="right" width="400" src="https://cdn.dribbble.com/users/1282416/screenshots/2859399/media/7876dd3dbc1111578d80369da11b047b.gif">
 </p>
 
-<p align="right">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=uhrzel&label=Profile%20views&color=0e75b6&style=flat" alt="uhrzel" />
 </p>
 
@@ -38,9 +38,9 @@
   </a>
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=uhrzel&show_icons=true&locale=en&layout=compact&theme=radical" alt="uhrzel" />
 </p>
-<p align="center">
+<p align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=uhrzel&theme=radical" alt="uhrzel" />
 </p>
