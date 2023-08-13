@@ -38,9 +38,9 @@
   </a>
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=uhrzel&show_icons=true&locale=en&layout=compact&theme=radical" alt="uhrzel" />
-</p>
-<p align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=uhrzel&theme=radical" alt="uhrzel" />
-</p>
+<div class = "container" style = "display: flex; ">
+<div> 
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=uhrzel&show_icons=true&locale=en&layout=compact&theme=radical" alt="uhrzel" />
+ </div>
+<div> <img src="https://github-readme-stats.vercel.app/api?username=uhrzel&theme=radical" alt="uhrzel" /> </div>
+</div>
