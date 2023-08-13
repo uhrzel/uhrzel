@@ -25,7 +25,7 @@
 <br />
 <br />
 <div style="clear: both;">
-  <div style="float: left;">
+  <div style="float: center;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=uhrzel&show_icons=true&locale=en&layout=compact&theme=dracula" alt="uhrzel" />
   </div>
 </div>
