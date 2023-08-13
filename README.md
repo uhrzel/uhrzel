@@ -38,9 +38,11 @@
   </a>
 </p>
 
-<div class = "container" style = "display: flex; flex-direction: row">
-<div> 
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=uhrzel&show_icons=true&locale=en&layout=compact&theme=radical" alt="uhrzel" />
- </div>
-<div> <img src="https://github-readme-stats.vercel.app/api?username=uhrzel&theme=radical" alt="uhrzel" /> </div>
+<div class="container" style="display: flex; flex-direction: row; justify-content: space-between;">
+  <div style="flex: 1; margin-right: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=uhrzel&show_icons=true&locale=en&layout=compact&theme=radical" alt="uhrzel" />
+  </div>
+  <div style="flex: 1; margin-left: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=uhrzel&theme=radical" alt="uhrzel" />
+  </div>
 </div>
