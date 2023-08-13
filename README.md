@@ -38,7 +38,7 @@
   </a>
 </p>
 
-<div class = "container" style = "display: flex; ">
+<div class = "container" style = "display: flex; flex-direction: row">
 <div> 
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=uhrzel&show_icons=true&locale=en&layout=compact&theme=radical" alt="uhrzel" />
  </div>
