@@ -1,7 +1,7 @@
 <p align="center"> <img src="image.png" alt="uhrzel" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uhrzel&label=Profile%20views&color=0e75b6&style=flat" alt="uhrzel" /> </p>
 
-- 🌱 I’m currently learning **MERN TACK DEVELOPMENT**
+- 🌱 I’m currently learning **MERN STACK DEVELOPMENT**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-ajrz.vercel.app/](https://portfolio-ajrz.vercel.app/)
 
