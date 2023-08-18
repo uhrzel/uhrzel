@@ -17,4 +17,4 @@
 </p>
 
 <p><img align="left" src="https://readme-stats.nozemi.io/api/top-langs?username=uhrzel&show_icons=true&locale=en&layout=compact&theme=radical" alt="uhrzel" /></p>
-<p><img align="right"  src="https://readme-stats.nozemi.io/api?username=uhrzel&theme=radical" alt="uhrzel" /></p>
+<p><img align="right" src="https://readme-stats.nozemi.io/api?username=uhrzel&theme=radical" alt="uhrzel" /></p>
