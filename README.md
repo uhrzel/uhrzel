@@ -1,6 +1,6 @@
 <!-- Intro  -->
 <h3 align="center"><samp>&gt; Hey There!, I am <b><a target="_blank" href="https://portfolio-ajrz.vercel.app/">Arzel</a></b></samp></h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=uhrzel&label=Profile%20views&color=0e75b6&style=flat" alt="uhrzel" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=uhrzel&label=Profile%20views&color=0e75b6&style=flat" alt="uhrzel" /> </p>
 
 <p align="center"> 
   <samp>
