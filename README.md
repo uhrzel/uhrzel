@@ -1,4 +1,3 @@
-<p align="center"> <img src="uhrzel.png" alt="uhrzel" /> </p>
 
 
 - 🌱 I’m currently learning **MERN STACK DEVELOPMENT**
