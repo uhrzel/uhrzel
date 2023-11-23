@@ -1,5 +1,5 @@
 <p align="center"> <img src="uhrzel.png" alt="uhrzel" /> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=uhrzel&label=Profile%20views&color=0e75b6&style=flat" alt="uhrzel" /> </p>
+
 
 - 🌱 I’m currently learning **MERN STACK DEVELOPMENT**
 
