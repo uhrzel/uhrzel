@@ -29,8 +29,6 @@
   <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="aynjel"  />
   </a> 
 </p>
-<br />
-
 ## Use To Code
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=02569B&labelColor=000&color=02569B)
