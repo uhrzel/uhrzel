@@ -1,45 +1,20 @@
-<!-- Intro  -->
-<h3 align="center"><samp>&gt; Hey There!, I am <b><a target="_blank" href="https://portfolio-ajrz.vercel.app/">Arzel</a></b></samp></h3>
+<p align="center"> <img src="uhrzel.png" alt="uhrzel" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=uhrzel&label=Profile%20views&color=0e75b6&style=flat" alt="uhrzel" /> </p>
 
-<p align="center"> 
-  <samp>
-    [<a href="https://www.google.com/search?q=Arzel+John+Zolina"> Google Me </a>]
-    <br>
-    [🌱 I’m currently learning MERN STACK DEVELOPMENT from <b>Philippines</b> ]
-    <br>
-    <br>
-  </samp>
+- 🌱 I’m currently learning **MERN STACK DEVELOPMENT**
+
+- 👨‍💻 All of my projects are available at [my portfolio.](https://portfolio-ajrz.vercel.app/)
+
+- 📫 How to reach me **Arzeljrz17@gmail.com**
+
+- 📄 Know about my experiences [resume.](https://resum-arzeljrz.vercel.app/)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/arzel-john-zolina-6983bb274" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arzel-john-zolina-6983bb274" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/16369896/arzel-john-zolina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="users/16369896/arzel-john-zolina" height="30" width="40" /></a>
+<a href="https://fb.com/uhrzel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="uhrzel" height="30" width="40" /></a>
 </p>
 
-<p align="center">
- <a href="https://portfolio-ajrz.vercel.app/" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="aynjel" />
- </a>
- <a href="https://www.linkedin.com/in/arzel-john-zolina-6983bb274/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="aynjel"/>
- </a>
- <a href="https://twitter.com/ZzzCipheruhrz" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
- </a>
- <a href="https://instagram.com/yur_therapissed" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="aynjel" />
- </a> 
- <a href="https://facebook.com/uhrzel" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="aynjel"  />
-  </a> 
-</p>
-<br />
-
-## Use To Code
-
-![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=F0DB4F&labelColor=000)
-![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&logo=typescript&logoColor=blue&labelColor=000)
-![Laravel](https://img.shields.io/badge/Laravel-F05340?style=for-the-badge&logo=laravel&logoColor=ffffff&labelColor=000)
-![PHP](https://img.shields.io/badge/Php-474a8a?style=for-the-badge&logo=php&logoColor=474a8a&labelColor=000)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=000)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=000)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=092749&labelColor=000)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=563D7C&labelColor=000)
-
-![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=0078d7&labelColor=000)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=F05032&labelColor=000)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=uhrzel&show_icons=true&locale=en&layout=compact&theme=radical" alt="uhrzel" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=uhrzel&theme=radical" alt="uhrzel" /></p>
