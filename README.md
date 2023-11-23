@@ -32,11 +32,13 @@
 
 ## Use To Code
 
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=02569B&labelColor=000&color=02569B)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=00599C&labelColor=000&color=00599C)
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=F0DB4F&labelColor=000)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&logo=typescript&logoColor=blue&labelColor=000)
 ![Laravel](https://img.shields.io/badge/Laravel-F05340?style=for-the-badge&logo=laravel&logoColor=ffffff&labelColor=000)
 ![PHP](https://img.shields.io/badge/Php-474a8a?style=for-the-badge&logo=php&logoColor=474a8a&labelColor=000)
+![MYSQL](https://img.shields.io/badge/MySql-4479A1?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=000&color=4479A1)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=000)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=000)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=092749&labelColor=000)
