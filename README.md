@@ -1,7 +1,7 @@
 <!-- Intro  -->
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=uhrzel&label=Profile%20views&color=0e75b6&style=flat" alt="uhrzel" /> </p>
 
-<h3 align="center"><samp>&gt; Hey There!, I am <b><a target="_blank" href="https://uhrzel-portfolio.vercel.app/">Arzel</a></b></samp></h3>
+<h3 align="center"><samp>&gt; Hey There!, I am <b><a target="_blank" href="https://uhrzel-portfolio.vercel.app/">Arzel</a><p>from Polomolok South Cotabato</p></b></samp></h3>
 <p align="center"> 
   <samp>
     [<a href="https://www.google.com/search?q=Arzel+John+Zolina"> Google Me </a>]
