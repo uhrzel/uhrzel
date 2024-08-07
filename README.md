@@ -5,10 +5,6 @@
 <p align="center"> 
   <samp>
     [<a href="https://www.google.com/search?q=Arzel+John+Zolina"> Google Me </a>]
-    <br>
-    [🌱 I’m currently learning MERN STACK DEVELOPMENT from <b>Philippines</b> ]
-    <br>
-    <br>
   </samp>
 </p>
 
