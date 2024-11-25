@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="arzel"/>
  </a>
  
- <a href="https://www.instagram.com/node.sphinx/" target="_blank">
+ <a href="https://www.instagram.com/self.uhrzel/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="arzel" />
  </a> 
  <a href="https://facebook.com/uhrzeljohn" target="_blank">
