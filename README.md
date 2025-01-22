@@ -22,5 +22,7 @@
  <a href="https://facebook.com/uhrzeljohn" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="arzel"  />
   </a> 
+<br>
+https://github-readme-activity-graph.vercel.app/graph?username=uhrzel&theme=react-dark
 </p>
 
