@@ -23,6 +23,6 @@
   <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="arzel"  />
   </a> 
 <br>
-https://github-readme-activity-graph.vercel.app/graph?username=uhrzel&theme=react-dark
+[![Arzel github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=uhrzel&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </p>
 
