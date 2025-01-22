@@ -14,23 +14,23 @@
 </p>
 
 <p align="center">
-  <a href="https://uhrzel-portfolio.vercel.app/" target="blank">
-    <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="arzel" />
+   <a href="https://facebook.com/uhrzeljohn" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="arzel" />
+  </a>
+  <a href="https://discordapp.com/users/568696023409754142" target="blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="arzel" />
   </a>
   <a href="https://www.linkedin.com/in/arzeljrz/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="arzel"/>
   </a>
-  <a href="https://discordapp.com/users/568696023409754142" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="arzel" />
+  <a href="https://www.instagram.com/self.uhrzel/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="arzel" />
   </a> 
-  <a href="https://facebook.com/uhrzeljohn" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="arzel" />
-  </a>
 </p>
 
 <!-- GitHub Activity Graph -->
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=uhrzel&theme=react-dark" alt="GitHub Activity Graph" />
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=uhrzel&theme=react-dark" alt="GitHub Activity Graph" />
   </a>
 </p>
