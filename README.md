@@ -23,17 +23,6 @@
   </a>
 </p>
 
----
-
-## 👨‍💻 About Me
-- 🔭 I’m currently working on **CSWDO Record Management System**
-- 🌱 I’m learning **Laravel | React | Next.js**
-- 💬 Ask me about **Web Development, Laravel, PHP, JavaScript**
-- 📫 How to reach me: **[arzeljohn.dev@gmail.com](mailto:arzeljohn.dev@gmail.com)**
-- ⚡ Fun fact: I love **coffee & late-night coding** ☕  
-
----
-
 ## 🚀 Tech Stack  
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -51,15 +40,5 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=uhrzel&theme=react-dark" alt="GitHub Activity Graph" />
   </a>
 </p>
-
----
-
-## 📝 Latest Projects  
-- 🔹 [CSWDO Record Management System](https://github.com/your-repo)
-- 🔹 [Payroll & Attendance System for Cafe Cerveza](https://github.com/your-repo)
-- 🔹 [Muslim Affairs Office System](https://github.com/your-repo)
-- 🔹 [Evaluation System](https://github.com/your-repo)
-- 🔹 [NJC Clinic Management System](https://github.com/your-repo)
-
 
 💡 *Inspired by many awesome GitHub profiles! Let’s connect and build cool stuff together!* 🚀
