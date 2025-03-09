@@ -44,15 +44,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 
----
-
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=uhrzel&show_icons=true&theme=react" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uhrzel&theme=react" alt="GitHub Streak" />
-</p>
-
----
 
 ## 🔥 GitHub Activity Graph  
 <p align="center">
@@ -70,12 +61,5 @@
 - 🔹 [Evaluation System](https://github.com/your-repo)
 - 🔹 [NJC Clinic Management System](https://github.com/your-repo)
 
----
-
-## 🏆 Profile Views & Contributions  
-![Visitor Count](https://komarev.com/ghpvc/?username=uhrzel&color=blue&style=flat)  
-![GitHub Snake](https://github.com/uhrzel/uhrzel/blob/output/github-contribution-grid-snake.svg)
-
----
 
 💡 *Inspired by many awesome GitHub profiles! Let’s connect and build cool stuff together!* 🚀
